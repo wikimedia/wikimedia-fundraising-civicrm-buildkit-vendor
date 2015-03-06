@@ -8,5 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     $vendorDir . '/rhumsaa/array_column/src/array_column.php',
     $vendorDir . '/wp-cli/php-cli-tools/lib/cli/cli.php',
+    $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Resources/functions/dump.php',
     $vendorDir . '/wp-cli/wp-cli/php/Spyc.php',
 );

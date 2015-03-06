@@ -9,6 +9,7 @@ return array(
     'cli' => array($vendorDir . '/wp-cli/php-cli-tools/lib'),
     'WP_CLI' => array($vendorDir . '/wp-cli/wp-cli/php'),
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
+    'Symfony\\Component\\VarDumper\\' => array($vendorDir . '/symfony/var-dumper'),
     'Symfony\\Component\\Templating\\' => array($vendorDir . '/symfony/templating'),
     'Symfony\\Component\\Process\\' => array($vendorDir . '/symfony/process'),
     'Symfony\\Component\\Finder\\' => array($vendorDir . '/symfony/finder'),
